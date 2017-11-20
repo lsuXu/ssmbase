@@ -1,0 +1,5 @@
+#创建数据库表
+create table message(
+id int NOT NULL PRIMARY KEY AUTO_INCREMENT,
+message text not null
+)AUTO_INCREMENT = 999;
